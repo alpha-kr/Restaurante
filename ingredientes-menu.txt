@@ -1,0 +1,6 @@
+
+Cocacola;agua;1
+Cocacola;Limon;2
+Espageti;Aguacate;2
+Espageti;pan;3
+resoto;Aguacate;2

@@ -1,0 +1,4 @@
+
+1;Cocacola;Bebidas;5000
+3;Espageti;Platos;33333
+4;resoto;Platos;50000

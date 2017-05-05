@@ -1,0 +1,28 @@
+          RESTAURANTE LA PROSPERIDAD
+                  Dirección
+        REGISTRO ICONTEC I.V.A INCLUIDO
+          TELEFONO correo@example.com
+-----------------------------------------------
+FACTURA XXXXXXX	              FECHA:XX/XX/XXXX
+-----------------------------------------------
+MESA:XX                             PÁGINA:XXX
+-----------------------------------------------
+UNI. DESCRIPCIÓN               PRECIO  IMPORTE
+-----------------------------------------------
+   X PEDIDO                    XXXXXX  XXXXXXX
+   X PEDIDO                    XXXXXX  XXXXXXX
+   X PEDIDO                    XXXXXX  XXXXXXX
+-----------------------------------------------
+TOTAL BRUTO           %IVA                 IVA
+    XXXX               %19                 XXX
+-----------------------------------------------
+TOTAL BRUTO         %PROPINA           PROPINA
+    XXXX               %10                 XXX
+-----------------------------------------------
+   TOTAL                              XXXX.XXX
+-----------------------------------------------
+  CONTADO                             XXXX.XXX
+-----------------------------------------------
+ CAJA UNICA                           TURNO  X
+-----------------------------------------------
+    GRACIAS POR SU VISITA - VUELVA PRONTO
